@@ -3,6 +3,11 @@
 # Título 1
 ## Título 2
 
+*italico* ou _italico_
+**negrito** ou __negrito__
+___negrito e italico___
+
+
 <!--
 **JALPJALP/JALPJALP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

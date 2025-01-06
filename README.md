@@ -9,6 +9,8 @@
 
 ___negrito e italico___
 
+- lista 1
+    -sublista 1
 
 <!--
 **JALPJALP/JALPJALP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

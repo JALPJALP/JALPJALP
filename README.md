@@ -19,7 +19,7 @@ ___negrito e italico___
 
 > Texto da citação
 
-|teste|teste|
+|teste|teste| <br>
 |teste|teste|
 
 <!--

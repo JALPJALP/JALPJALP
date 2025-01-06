@@ -4,7 +4,9 @@
 ## Título 2
 
 *italico* ou _italico_
+
 **negrito** ou __negrito__
+
 ___negrito e italico___
 
 

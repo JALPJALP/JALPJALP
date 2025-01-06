@@ -17,6 +17,11 @@ ___negrito e italico___
 
     `fffff`
 
+> Texto da citação
+
+|teste|teste|
+|teste|teste|
+
 <!--
 **JALPJALP/JALPJALP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
